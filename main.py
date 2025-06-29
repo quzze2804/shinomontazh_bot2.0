@@ -49,8 +49,8 @@ NAME, PHONE, DATE, CONFIRM = range(4)
 
 class TireServiceBot:
     def __init__(self):
-        self.bot_token = os.getenv('BOT_TOKEN')
-        self.admin_chat_id = os.getenv('ADMIN_CHAT_ID')
+        self.bot_token = "7939973394:AAHiqYYc5MSsiad1qslZ5rvgSnEEP7XeBfs"
+        self.admin_chat_id = "7285220061"
 
     def generate_time_slots(self):
         """Generate available time slots from 8 AM to 5 PM with 30-minute intervals."""
