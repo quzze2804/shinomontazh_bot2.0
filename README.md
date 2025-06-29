@@ -1,1 +1,0 @@
-# shinomontazh_bot2.0
